@@ -1,0 +1,23 @@
+[21-Sep-2022 00:59:10 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/holaswea/public_html/repeat-order/bantuan/cek-login.php on line 10
+[21-Sep-2022 00:59:10 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/holaswea/public_html/repeat-order/bantuan/cek-login.php on line 11
+[21-Sep-2022 00:59:10 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/holaswea/public_html/repeat-order/bantuan/cek-login.php on line 12
+[21-Sep-2022 02:22:09 Asia/Hong_Kong] PHP Notice:  Undefined variable: jum_log in /home/holaswea/public_html/repeat-order/bantuan/simpan-data-log-pelanggan.php on line 16
+[21-Sep-2022 02:22:48 Asia/Hong_Kong] PHP Notice:  Undefined index: phone in /home/holaswea/public_html/repeat-order/bantuan/simpan-data-log-pelanggan.php on line 9
+[21-Sep-2022 02:22:48 Asia/Hong_Kong] PHP Notice:  Undefined index: KODE_TRX in /home/holaswea/public_html/repeat-order/bantuan/simpan-data-log-pelanggan.php on line 10
+[21-Sep-2022 02:25:08 Asia/Hong_Kong] PHP Notice:  Undefined variable: jum_log in /home/holaswea/public_html/repeat-order/bantuan/simpan-transaksi.php on line 26
+[21-Sep-2022 06:25:07 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/holaswea/public_html/repeat-order/bantuan/simpan-data-log-pelanggan.php on line 45
+[21-Sep-2022 06:28:15 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/holaswea/public_html/repeat-order/bantuan/simpan-data-log-pelanggan.php on line 45
+[21-Sep-2022 06:28:15 Asia/Hong_Kong] PHP Notice:  Undefined variable: pemakai in /home/holaswea/public_html/repeat-order/bantuan/simpan-data-log-pelanggan.php on line 53
+[21-Sep-2022 06:28:36 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/holaswea/public_html/repeat-order/bantuan/simpan-data-log-pelanggan.php on line 45
+[21-Sep-2022 06:28:36 Asia/Hong_Kong] PHP Notice:  Undefined variable: pemakai in /home/holaswea/public_html/repeat-order/bantuan/simpan-data-log-pelanggan.php on line 53
+[21-Sep-2022 06:29:20 Asia/Hong_Kong] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/holaswea/public_html/repeat-order/bantuan/simpan-data-log-pelanggan.php on line 49
+[21-Sep-2022 06:29:20 Asia/Hong_Kong] PHP Notice:  Undefined variable: pemakai in /home/holaswea/public_html/repeat-order/bantuan/simpan-data-log-pelanggan.php on line 54
+[22-Sep-2022 00:56:44 Asia/Hong_Kong] PHP Notice:  Undefined index: username in /home/holaswea/public_html/repeat-order/bantuan/simpan-data-log-pelanggan.php on line 7
+[22-Sep-2022 00:56:44 Asia/Hong_Kong] PHP Notice:  Undefined index: phone in /home/holaswea/public_html/repeat-order/bantuan/simpan-data-log-pelanggan.php on line 9
+[22-Sep-2022 00:56:44 Asia/Hong_Kong] PHP Notice:  Undefined index: KODE_TRX in /home/holaswea/public_html/repeat-order/bantuan/simpan-data-log-pelanggan.php on line 10
+[23-Sep-2022 02:24:30 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/holaswea/public_html/repeat-order/bantuan/cek-login.php on line 15
+[23-Sep-2022 02:24:30 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/holaswea/public_html/repeat-order/bantuan/cek-login.php on line 16
+[23-Sep-2022 02:24:30 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/holaswea/public_html/repeat-order/bantuan/cek-login.php on line 17
+[27-Sep-2022 00:05:12 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/holaswea/public_html/repeat-order/bantuan/cek-login.php on line 15
+[27-Sep-2022 00:05:12 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/holaswea/public_html/repeat-order/bantuan/cek-login.php on line 16
+[27-Sep-2022 00:05:12 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/holaswea/public_html/repeat-order/bantuan/cek-login.php on line 17
